@@ -1,2 +1,2 @@
-git+https://github.com/gatagat/lap@new-packaging
+streamlit==1.29.0
 
