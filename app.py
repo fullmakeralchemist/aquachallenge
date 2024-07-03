@@ -3,7 +3,7 @@ import streamlit as st
 # Set the page configuration
 st.set_page_config(page_title="Water Guardian", page_icon="🌊")
 
-st.title("🌊 Water Guardian")
+st.title("🌊 Water Guardian Demo")
 
 # Predefined water-related prompts and responses
 prompts_responses = {
@@ -25,8 +25,10 @@ for message in st.session_state.messages:
     with st.chat_message(message["role"]):
         st.markdown(message["content"])
 
-# Display prompts as radio buttons
-selected_prompt = st.radio("Select a prompt about water:", list(prompts_responses.keys()))
+
+# Display prompts as radio buttons with larger text for the label
+st.markdown("<h2>Select an example prompt about water:</h2>", unsafe_allow_html=True)
+selected_prompt = st.radio("", list(prompts_responses.keys()))
 
 # Add a button to submit the selected prompt
 if st.button("Submit Prompt"):
