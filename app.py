@@ -7,12 +7,14 @@ st.title("🌊 Water Guardian Demo")
 
 # Predefined water-related prompts and responses
 prompts_responses = {
+
     "What are the benefits of drinking water?": "Drinking water helps maintain the balance of body fluids, aids digestion, controls calories, energizes muscles, and keeps skin looking good.",
     "How does water support life on Earth?": "Water is essential for all living organisms. It is a solvent, a temperature buffer, a metabolite, and a living environment.",
     "What are some interesting facts about oceans?": "Oceans cover more than 70% of the Earth's surface, contain 97% of the Earth's water, and produce more than half of the world's oxygen.",
     "How can we conserve water in our daily lives?": "We can conserve water by fixing leaks, taking shorter showers, turning off the tap while brushing teeth, and using water-efficient appliances.",
     "What are the effects of water pollution?": "Water pollution can lead to health issues, harm aquatic life, disrupt ecosystems, and contaminate drinking water sources.",
     "How does the water cycle work?": "The water cycle involves the continuous movement of water on, above, and below the surface of the Earth through processes like evaporation, condensation, and precipitation.",
+    "What is the importance of clean water?": "Clean water is vital for drinking, sanitation, agriculture, and industrial processes. It is essential for health, development, and ecosystems.",
     "What is the importance of clean water?": "Clean water is vital for drinking, sanitation, agriculture, and industrial processes. It is essential for health, development, and ecosystems."
 }
 
