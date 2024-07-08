@@ -15,7 +15,7 @@ prompts_responses = {
     "What are the effects of water pollution?": "Water pollution can lead to health issues, harm aquatic life, disrupt ecosystems, and contaminate drinking water sources.",
     "How does the water cycle work?": "The water cycle involves the continuous movement of water on, above, and below the surface of the Earth through processes like evaporation, condensation, and precipitation.",
     "What is the importance of clean water?": "Clean water is vital for drinking, sanitation, agriculture, and industrial processes. It is essential for health, development, and ecosystems.",
-    "What is the importance of clean water?": "Clean water is vital for drinking, sanitation, agriculture, and industrial processes. It is essential for health, development, and ecosystems."
+    "What is the importance of clean water2?": "Clean water is vital for drinking, sanitation, agriculture, and industrial processes. It is essential for health, development, and ecosystems."
 }
 
 # Initialize chat history
